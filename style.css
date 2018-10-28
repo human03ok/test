@@ -40,8 +40,8 @@ h2 {
       32,
       center center,
       960,
-      from(rgba(255, 255, 255, 0)),
+      from(rgba(153, 225, 231, 0)),
       to(#e55555)
     );
-  background-image: radial-gradient(rgba(255, 255, 255, 0), #e55555);
+  background-image: radial-gradient(rgba(153, 225, 231, 0), #e55555);
 }
